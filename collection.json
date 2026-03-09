@@ -133,14 +133,14 @@
     },
     {
       "id": "12345",
-      "title": "my title 123",
+      "title": "Raadhuis Hilversum",
       "media": {
         "type": "image",
         "url": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/Raadhuis_Dudokpark_847-768x500.jpg",
         "thumbnailUrl": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/Raadhuis_Dudokpark_847-768x500.jpg"
       },
       "license": "CC-BY-4.0",
-      "description": "Raadhuis hilversum",
+      "description": "Het raadhuis in hilversum gezien vanaf het borders bij de bijver kijkend richting de raadszaal en de hoofdingang.",
       "creator": "geen idee",
       "date": "1972",
       "location": "Hilversum",
