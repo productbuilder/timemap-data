@@ -18,7 +18,11 @@
       "location": "Amsterdam",
       "attribution": "Municipal Archive",
       "source": "https://example.org/archive/harbor-chart-1701",
-      "tags": ["map", "harbor", "nautical"],
+      "tags": [
+        "map",
+        "harbor",
+        "nautical"
+      ],
       "include": true
     },
     {
@@ -36,7 +40,11 @@
       "location": "Rotterdam",
       "attribution": "City Photo Collection",
       "source": "https://example.org/archive/market-square-1912",
-      "tags": ["photo", "urban", "market"],
+      "tags": [
+        "photo",
+        "urban",
+        "market"
+      ],
       "include": true
     },
     {
@@ -54,7 +62,10 @@
       "location": "Dordrecht",
       "attribution": "Regional Archive",
       "source": "https://example.org/archive/dockworks-letter-1848",
-      "tags": ["letter", "infrastructure"],
+      "tags": [
+        "letter",
+        "infrastructure"
+      ],
       "include": true
     },
     {
@@ -72,7 +83,10 @@
       "location": "The Hague",
       "attribution": "Port Museum",
       "source": "https://example.org/archive/port-fair-1928",
-      "tags": ["poster", "event"],
+      "tags": [
+        "poster",
+        "event"
+      ],
       "include": false
     },
     {
@@ -90,7 +104,10 @@
       "location": "Zeeland",
       "attribution": "",
       "source": "",
-      "tags": ["survey", "engineering"],
+      "tags": [
+        "survey",
+        "engineering"
+      ],
       "include": true
     },
     {
@@ -108,12 +125,15 @@
       "location": "Maasvlakte",
       "attribution": "National Archive",
       "source": "https://example.org/archive/aerial-1972",
-      "tags": ["aerial", "delta"],
+      "tags": [
+        "aerial",
+        "delta"
+      ],
       "include": true
     },
     {
       "id": "12345",
-      "title": "my title",
+      "title": "my title 123",
       "media": {
         "type": "image",
         "url": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/Raadhuis_Dudokpark_847-768x500.jpg",
@@ -126,10 +146,10 @@
       "location": "Hilversum",
       "attribution": "Dudok Architectuur Centrum",
       "source": "https://www.dudokarchitectuurcentrum.nl/",
-      "tags": ["architectuur"],
+      "tags": [
+        "architectuur"
+      ],
       "include": true
     }
   ]
 }
-
-
