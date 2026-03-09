@@ -1,7 +1,10 @@
 {
-  "id": "col-mvp-export",
-  "title": "TimeMap Collector Export",
-  "description": "Manifest generated from TimeMap Collector.",
+  "id": "a",
+  "title": "asdfasdf",
+  "description": "asgfasga",
+  "license": "",
+  "publisher": "",
+  "language": "",
   "items": [
     {
       "id": "itm-map-1701-harbor-chart",
@@ -198,6 +201,113 @@
     },
     {
       "id": "itm-aerial-1972-river-mouth",
+      "title": "manifest_item_5",
+      "media": {
+        "type": "image",
+        "url": "https://picsum.photos/id/1084/900/600",
+        "thumbnailUrl": "https://picsum.photos/id/1084/300/200"
+      },
+      "license": "CC-BY-4.0",
+      "description": "Aerial capture of river mouth development.",
+      "creator": "National Mapping Service",
+      "date": "1972",
+      "location": "Maasvlakte",
+      "attribution": "National Archive",
+      "source": "https://example.org/archive/aerial-1972",
+      "tags": [
+        "aerial",
+        "delta"
+      ],
+      "include": true
+    },
+    {
+      "id": "itm-map-1701-harbor-chart",
+      "title": "Harbor Chart 1701",
+      "media": {
+        "type": "image",
+        "url": "https://picsum.photos/id/1015/900/600",
+        "thumbnailUrl": "https://picsum.photos/id/1015/300/200"
+      },
+      "license": "CC-BY-4.0",
+      "description": "Historic harbor chart with annotations.",
+      "creator": "Anonymous Cartographer",
+      "date": "1701",
+      "location": "Amsterdam",
+      "attribution": "Municipal Archive",
+      "source": "https://example.org/archive/harbor-chart-1701",
+      "tags": [
+        "map",
+        "harbor",
+        "nautical"
+      ],
+      "include": true
+    },
+    {
+      "id": "itm-photo-1912-market-square",
+      "title": "Market Square Photo",
+      "media": {
+        "type": "image",
+        "url": "https://picsum.photos/id/1025/900/600",
+        "thumbnailUrl": "https://picsum.photos/id/1025/300/200"
+      },
+      "license": "Public Domain",
+      "description": "Street scene before the tram expansion.",
+      "creator": "City Press Office",
+      "date": "1912",
+      "location": "Rotterdam",
+      "attribution": "City Photo Collection",
+      "source": "https://example.org/archive/market-square-1912",
+      "tags": [
+        "photo",
+        "urban",
+        "market"
+      ],
+      "include": true
+    },
+    {
+      "id": "itm-letter-1848-dockworks",
+      "title": "Dockworks Letter Fragment",
+      "media": {
+        "type": "image",
+        "url": "https://picsum.photos/id/1040/900/600",
+        "thumbnailUrl": "https://picsum.photos/id/1040/300/200"
+      },
+      "license": "CC0-1.0",
+      "description": "Excerpt from planning correspondence.",
+      "creator": "Harbor Office",
+      "date": "1848",
+      "location": "Dordrecht",
+      "attribution": "Regional Archive",
+      "source": "https://example.org/archive/dockworks-letter-1848",
+      "tags": [
+        "letter",
+        "infrastructure"
+      ],
+      "include": true
+    },
+    {
+      "id": "itm-survey-1965-delta-draft",
+      "title": "Delta Works Survey Draft",
+      "media": {
+        "type": "image",
+        "url": "https://picsum.photos/id/1074/900/600",
+        "thumbnailUrl": "https://picsum.photos/id/1074/300/200"
+      },
+      "license": "",
+      "description": "Engineering survey image with partial metadata.",
+      "creator": "",
+      "date": "1965",
+      "location": "Zeeland",
+      "attribution": "",
+      "source": "",
+      "tags": [
+        "survey",
+        "engineering"
+      ],
+      "include": true
+    },
+    {
+      "id": "itm-aerial-1972-river-mouth",
       "title": "manifest_item_6",
       "media": {
         "type": "image",
@@ -251,8 +361,8 @@
       "include": true,
       "media": {
         "type": "image",
-        "url": "media/3gl29ukujmxgggvivmqkai.jpg",
-        "thumbnailUrl": "thumbs/3gl29ukujmxgggvivmqkai.thumb.jpg"
+        "url": "https://raw.githubusercontent.com/productbuilder/timemap-data/main/media/3gl29ukujmxgggvivmqkai.jpg",
+        "thumbnailUrl": "https://raw.githubusercontent.com/productbuilder/timemap-data/main/thumbs/3gl29ukujmxgggvivmqkai.thumb.jpg"
       }
     },
     {
@@ -269,8 +379,8 @@
       "include": true,
       "media": {
         "type": "image",
-        "url": "media/csm-diy-003-katana-692fdf7793.jpg",
-        "thumbnailUrl": "thumbs/csm-diy-003-katana-692fdf7793.thumb.jpg"
+        "url": "https://raw.githubusercontent.com/productbuilder/timemap-data/main/media/csm-diy-003-katana-692fdf7793.jpg",
+        "thumbnailUrl": "https://raw.githubusercontent.com/productbuilder/timemap-data/main/thumbs/csm-diy-003-katana-692fdf7793.thumb.jpg"
       }
     },
     {
@@ -287,8 +397,26 @@
       "include": true,
       "media": {
         "type": "image",
-        "url": "media/screen-shot-2020-05-04-at-11-07-24-am.webp",
-        "thumbnailUrl": "thumbs/screen-shot-2020-05-04-at-11-07-24-am.thumb.jpg"
+        "url": "https://raw.githubusercontent.com/productbuilder/timemap-data/main/media/screen-shot-2020-05-04-at-11-07-24-am.webp",
+        "thumbnailUrl": "https://raw.githubusercontent.com/productbuilder/timemap-data/main/thumbs/screen-shot-2020-05-04-at-11-07-24-am.thumb.jpg"
+      }
+    },
+    {
+      "id": "clay-render",
+      "title": "Clay render",
+      "description": "",
+      "creator": "",
+      "date": "",
+      "location": "",
+      "license": "",
+      "attribution": "",
+      "source": "",
+      "tags": [],
+      "include": true,
+      "media": {
+        "type": "image",
+        "url": "media/clay-render.jpg",
+        "thumbnailUrl": "thumbs/clay-render.thumb.jpg"
       }
     }
   ]
