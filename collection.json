@@ -110,6 +110,26 @@
       "source": "https://example.org/archive/aerial-1972",
       "tags": ["aerial", "delta"],
       "include": true
+    },
+    {
+      "id": "12345",
+      "title": "my title",
+      "media": {
+        "type": "image",
+        "url": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/Raadhuis_Dudokpark_847-768x500.jpg",
+        "thumbnailUrl": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/Raadhuis_Dudokpark_847-768x500.jpg"
+      },
+      "license": "CC-BY-4.0",
+      "description": "Raadhuis hilversum",
+      "creator": "geen idee",
+      "date": "1972",
+      "location": "Hilversum",
+      "attribution": "Dudok Architectuur Centrum",
+      "source": "https://www.dudokarchitectuurcentrum.nl/",
+      "tags": ["architectuur"],
+      "include": true
     }
   ]
 }
+
+
