@@ -1,0 +1,30 @@
+{
+  "id": "asdfasdf",
+  "title": "asdfasdf",
+  "description": "Manifest generated from TimeMap Collector.",
+  "license": "",
+  "publisher": "",
+  "language": "",
+  "rootPath": "asdfasdf/",
+  "items": [
+    {
+      "id": "x1-img4-set-r-rechts",
+      "title": "X1 IMG4 SET R RECHTS",
+      "description": "",
+      "creator": "",
+      "date": "",
+      "location": "",
+      "license": "",
+      "attribution": "",
+      "source": "",
+      "tags": [],
+      "include": true,
+      "media": {
+        "type": "image",
+        "url": "media/x1-img4-set-r-rechts.png",
+        "thumbnailUrl": "thumbs/x1-img4-set-r-rechts.thumb.jpg"
+      },
+      "collectionRootPath": "asdfasdf/"
+    }
+  ]
+}
